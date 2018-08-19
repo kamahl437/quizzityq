@@ -1,3 +1,4 @@
+mkdir public
 cd public
 git clone https://github.com/kamahl437/phaser3-typescript.git
 cd phaser3-typescript
