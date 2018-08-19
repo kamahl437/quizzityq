@@ -5,6 +5,6 @@ cd phaser3-typescript
 git pull
 npm install
 npm i -g webpack
-npm run webpack --mode production
+webpack --mode production
 cd ../..
 node index.js
